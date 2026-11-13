@@ -210,6 +210,10 @@
             timer1.Interval = 500;
             timer1.Tick += timer1_Tick;
             // 
+            // timer2
+            // 
+            timer2.Interval = 1000;
+            // 
             // pictureBox1
             // 
             pictureBox1.Location = new Point(254, 321);
