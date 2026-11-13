@@ -131,7 +131,7 @@
             button3.Cursor = Cursors.Hand;
             button3.Location = new Point(75, 43);
             button3.Name = "button3";
-            button3.Size = new Size(92, 79);
+            button3.Size = new Size(100, 100);
             button3.TabIndex = 14;
             button3.UseVisualStyleBackColor = false;
             // 
@@ -141,7 +141,7 @@
             button4.Cursor = Cursors.Hand;
             button4.Location = new Point(231, 43);
             button4.Name = "button4";
-            button4.Size = new Size(92, 79);
+            button4.Size = new Size(100, 100);
             button4.TabIndex = 15;
             button4.UseVisualStyleBackColor = false;
             // 
@@ -151,7 +151,7 @@
             button5.Cursor = Cursors.Hand;
             button5.Location = new Point(392, 43);
             button5.Name = "button5";
-            button5.Size = new Size(92, 79);
+            button5.Size = new Size(100, 100);
             button5.TabIndex = 16;
             button5.UseVisualStyleBackColor = false;
             // 
@@ -161,7 +161,7 @@
             button6.Cursor = Cursors.Hand;
             button6.Location = new Point(544, 43);
             button6.Name = "button6";
-            button6.Size = new Size(92, 79);
+            button6.Size = new Size(100, 100);
             button6.TabIndex = 17;
             button6.UseVisualStyleBackColor = false;
             // 
@@ -171,7 +171,7 @@
             button7.Cursor = Cursors.Hand;
             button7.Location = new Point(547, 184);
             button7.Name = "button7";
-            button7.Size = new Size(92, 79);
+            button7.Size = new Size(100, 100);
             button7.TabIndex = 21;
             button7.UseVisualStyleBackColor = false;
             // 
@@ -181,7 +181,7 @@
             button8.Cursor = Cursors.Hand;
             button8.Location = new Point(395, 184);
             button8.Name = "button8";
-            button8.Size = new Size(92, 79);
+            button8.Size = new Size(100, 100);
             button8.TabIndex = 20;
             button8.UseVisualStyleBackColor = false;
             // 
@@ -191,7 +191,7 @@
             button9.Cursor = Cursors.Hand;
             button9.Location = new Point(234, 184);
             button9.Name = "button9";
-            button9.Size = new Size(92, 79);
+            button9.Size = new Size(100, 100);
             button9.TabIndex = 19;
             button9.UseVisualStyleBackColor = false;
             // 
@@ -201,7 +201,7 @@
             button10.Cursor = Cursors.Hand;
             button10.Location = new Point(78, 184);
             button10.Name = "button10";
-            button10.Size = new Size(92, 79);
+            button10.Size = new Size(100, 100);
             button10.TabIndex = 18;
             button10.UseVisualStyleBackColor = false;
             // 

@@ -101,13 +101,21 @@ namespace memory_game
                 tstep++;
                 acilan += 2;
                 label3.Text = tstep.ToString();
-                pictureBox1.ImageLocation = "D:\\C# lesson\\img and details\\right.png";
+                pictureBox1.ImageLocation = "D:\\ASP.NET\\img\\true1.png";
                 birinci = null;
                 ikinci = null;
 
                 if (acilan == 8)
                 {
-                    MessageBox.Show("Oyun bitdi");
+                    if(tstep < fstep)
+                    {
+                        MessageBox.Show("Təəssüf! Səhv addımlarınızın sayı çoxdur.", "Məğlubiyyət", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                    }
+                    else
+                    {
+                        MessageBox.Show("Təbriklər! Oyunu uğurla bitirdiniz.", "Qalib", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
                 }
             }
             else
